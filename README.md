@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </h1>
 
 
-私はダナン工科大学の日本語専攻の3年生です。DevOps、AI/ML、バックエンド開発に情熱を持ち、これらの分野を組み合わせた革新的なプロジェクトに取り組んでいます。常に新しい技術を学び、面白いプロジェクトでコラボレーションすることを楽しみにしています。
+✨ 私はダナン工科大学の日本語専攻の3年生です。DevOps、AI/ML、バックエンド開発に情熱を持ち、これらの分野を組み合わせた革新的なプロジェクトに取り組んでいます。常に新しい技術を学び、面白いプロジェクトでコラボレーションすることを楽しみにしています。✨
 
 スキル:
 - 🔭 言語: Python, JavaScript, SQL, TypeScript
@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 <hr/>
 <br/>
 
-I'm a third-year IT student specializing in Japanese at Danang University of Science and Technology. I am passionate about DevOps, AI/ML, and Backend Development, and I enjoy building innovative projects that combine these fields. I'm always keen to learn new technologies and collaborate on exciting projects.
+✨ I'm a third-year IT student specializing in Japanese at Danang University of Science and Technology. I am passionate about DevOps, AI/ML, and Backend Development, and I enjoy building innovative projects that combine these fields. I'm always keen to learn new technologies and collaborate on exciting projects. ✨
 
 Skills:
 - 🔭 Languages: Python, JavaScript, SQL, TypeScript
-- 🌱 Frameworks: Django, NestJS, React
+- 🌱 Frameworks: NestJS, React
 - ⚡ Tools: Docker, Git
 - 😄 Specialties: DevOps, AI/ML, Backend Development
 
