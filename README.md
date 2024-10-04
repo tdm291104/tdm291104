@@ -20,21 +20,50 @@ Here are some ideas to get you started:
 
 ✨ 私はダナン工科大学の日本語専攻の3年生です。DevOps、AI/ML、バックエンド開発に情熱を持ち、これらの分野を組み合わせた革新的なプロジェクトに取り組んでいます。常に新しい技術を学び、面白いプロジェクトでコラボレーションすることを楽しみにしています。✨
 
-スキル:
-- 🔭 言語: Python, JavaScript, SQL, TypeScript
-- 🌱 フレームワーク: NestJS, React
-- ⚡ ツール: Docker, Git
-- 😄 専門: DevOps、AI/ML、バックエンド開発
-
 <br/>
 <hr/>
 <br/>
 
 ✨ I'm a third-year IT student specializing in Japanese at Danang University of Science and Technology. I am passionate about DevOps, AI/ML, and Backend Development, and I enjoy building innovative projects that combine these fields. I'm always keen to learn new technologies and collaborate on exciting projects. ✨
 
-Skills:
-- 🔭 Languages: Python, JavaScript, SQL, TypeScript
-- 🌱 Frameworks: NestJS, React
-- ⚡ Tools: Docker, Git
-- 😄 Specialties: DevOps, AI/ML, Backend Development
+<br/>
+<hr/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,git,docker,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,nestjs,express,react,nextjs,mysql,postgresql,mongodb,flask,aws" /><br>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align="center">
+    <table>
+      <tr>
+        <!-- Cột bên trái chứa 2 thẻ ảnh -->
+        <td>
+          <!-- GitHub Stats -->
+          <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dark&preferLogin=false">
+            <img style="width: 435px;" alt="tdm291104's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/tdm291104?cardType=github&theme=github-dark&preferLogin=false" />
+          </a>
+          <br>
+          <!-- GitHub Streak -->
+          <a href="https://git.io/streak-stats">
+            <img style="width: 435px;" src="https://streak-stats.demolab.com?user=tdm291104&theme=dark" alt="GitHub Streak" />
+          </a>
+        </td>
+        <!-- Cột bên phải chứa thẻ ảnh Top Langs -->
+        <td>
+          <!-- Top Languages -->
+          <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdm291104&layout=donut-vertical&theme=dark" alt="Top Languages" />
+          </a>
+        </td>
+      </tr>    
+    </table>
+</div>
+
 
