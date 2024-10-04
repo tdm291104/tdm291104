@@ -47,19 +47,19 @@ Here are some ideas to get you started:
         <td>
           <!-- GitHub Stats -->
           <a href="">
-            <img style="width: 435px;" alt="tdm291104's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/tdm291104?cardType=github&theme=github-dark&preferLogin=true" />
+            <img style="width: 435px;" alt="tdm291104's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tdm291104&show_icons=true&theme=radical" />
           </a>
           <br>
           <!-- GitHub Streak -->
           <a href="">
-            <img style="width: 435px;" src="https://streak-stats.demolab.com?user=tdm291104&theme=dark" alt="GitHub Streak" />
+            <img style="width: 435px;" src="https://streak-stats.demolab.com?user=tdm291104&theme=radical" alt="GitHub Streak" />
           </a>
         </td>
         <!-- Cột bên phải chứa thẻ ảnh Top Langs -->
         <td>
           <!-- Top Languages -->
           <a href="">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdm291104&layout=pie&theme=dark"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdm291104&layout=pie&theme=radical"/>
           </a>
         </td>
       </tr>    
