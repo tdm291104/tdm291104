@@ -47,7 +47,7 @@ Here are some ideas to get you started:
         <td>
           <!-- GitHub Stats -->
           <a href="">
-            <img style="width: 435px;" alt="tdm291104's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/tdm291104?cardType=github&theme=github-dark&preferLogin=false" />
+            <img style="width: 435px;" alt="tdm291104's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/tdm291104?cardType=github&theme=github-dark&preferLogin=true" />
           </a>
           <br>
           <!-- GitHub Streak -->
