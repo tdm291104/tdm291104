@@ -46,20 +46,20 @@ Here are some ideas to get you started:
         <!-- Cột bên trái chứa 2 thẻ ảnh -->
         <td>
           <!-- GitHub Stats -->
-          <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dark&preferLogin=false">
+          <a href="">
             <img style="width: 435px;" alt="tdm291104's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/tdm291104?cardType=github&theme=github-dark&preferLogin=false" />
           </a>
           <br>
           <!-- GitHub Streak -->
-          <a href="https://git.io/streak-stats">
+          <a href="">
             <img style="width: 435px;" src="https://streak-stats.demolab.com?user=tdm291104&theme=dark" alt="GitHub Streak" />
           </a>
         </td>
         <!-- Cột bên phải chứa thẻ ảnh Top Langs -->
         <td>
           <!-- Top Languages -->
-          <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdm291104&layout=donut-vertical&theme=dark" alt="Top Languages" />
+          <a href="">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdm291104&layout=pie&theme=dark"/>
           </a>
         </td>
       </tr>    
